@@ -3,7 +3,7 @@ const companyInfo = {
   address: 'Xã Ninh Hải, Huyện Hoa Lư, Tỉnh Ninh Bình',
   hotline: '19009157',
   email: 'info@tamcoc.vn',
-  zalo: 'https://zalo.me/19009157',
+  zalo: 'https://zalo.me/0972924567',
 };
 
 export default function Contact() {
@@ -54,7 +54,7 @@ export default function Contact() {
       </div>
 
       <footer className="mt-8 flex flex-col gap-4 border-t border-slate-200 px-1 pt-8 text-sm text-slate-500 md:flex-row md:items-center md:justify-between">
-        <p>© Tam Cốc - Bích Động. Landing page 1 trang sẵn sàng deploy Vercel.</p>
+        <p>© Tam Cốc - Bích Động. Landing page. Sponsor by StarClaw.io</p>
         <div className="flex flex-wrap gap-4">
           <a href="#hanh-trinh" className="hover:text-slate-900">Hành trình</a>
           <a href="#bang-gia" className="hover:text-slate-900">Bảng giá</a>
